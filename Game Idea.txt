@@ -1,23 +1,23 @@
-tema    : Pertualangan dimana kamu di dunia lain dimana banyak traveler lain dari dunia bermacam lain-lain untuk pulang kembali 
-genre    : adventure, action, rpg, platformer (mungkin puzzle) 
-target user   : yang suka mempertualangi dunia yang bermacam dengan tema berbeda(tergantung berapa bisa kita) dan combat yang banyak variasi(masih tergantung berapa bisa kita) 
-character   : dari 1 sampai terserah tergantung berapa bisa 
-action   : bisa lompat, attack, defend, counter attack dan menggunakan effect yang bervariasi (tergantung berapa bisa kita) 
-map    : 
+Tema    : Pertualangan dimana kamu di dunia lain dimana banyak traveler lain dari dunia bermacam lain-lain untuk pulang kembali 
+Genre    : adventure, action, rpg, platformer (mungkin puzzle) 
+Target user   : yang suka mempertualangi dunia yang bermacam dengan tema berbeda (tergantung berapa bisa kita) dan combat yang banyak variasi(masih tergantung berapa bisa kita) 
+Character   : dari 1 sampai terserah tergantung berapa bisa 
+Action   : bisa lompat, attack, defend, counter attack dan menggunakan effect yang bervariasi (tergantung berapa bisa kita) 
+M<ap    : 
 banyak objek tertentu bedasarkan dunia yang di buat 
 background tergantung tema dunia yang ada 
  
  
-komplesitas program : 
+Komplesitas program : 
 banyak transisi (mungkin) 
 banyak collision (tergantung) 
 banyak model (tergantung) 
 banyak mekanik (tergantung) 
 banyak misi (tergantung) 
  
-kesimpulan: tergantung berapa bisa asalkan bisa platforming 
+Kesimpulan: tergantung berapa bisa asalkan bisa platforming 
  
-story: 
+Story: 
  Kamu suatu hari saat tidur timbul bangun di di ruins lama dimana kamu ketemu seseorang dalam armor yang berkilap dan cantik dengan mahkota di kepalanya, dia menjelaskan bahwa dia adalah pahlawan ksatria legendaris bernama king arthur tapi bagaimana itu bisa terjadi? kan king arthur sudah mati dari masa lalu, dan juga dia menjelaskan hal hal aneh seperti sihir dan dewa, kamu tidak tau apa yang terjadi tapi kamu ingin pulang karena adik mu sakit dan kamu adalah keluarga satu satunya. 
  
  Dalam pertualangan untuk pulang kamu dengan kawan pertama mu dalam dunia ini akan bekerja sama untuk sementara ini untuk keluar dari ruins ini, dalam ruins kamu menghindari trap, menyelasaikan puzzle, menemukan tressure, dan melawan musuh musuh yang terkutuk dan kehilangan kesadaran diri seperti zombie yang hanya mau membunuh, pada akhir dari ruins kamu ketemu dengan orang yang telah membawa kamu ke dunia ini yang ingin kamu untuk membantu dia untuk melawan suatu kekuatan jahat yang bernama The Void yang ingin menghancurin semua dunia supaya omniverse kembali seperti semula yaitu kekosongan yang tidak berakhir, kamu menolak dia dan menanyakan bagaimana caranya untuk pulang, sosok tersebut lalu menghilang dengan kamu mencari dia lagi hanya untuk ketemu dengan seorang gadis dalam mecha suit yang telah terkorupsi dengan kekuatan Void dan menyerang kamu. 
@@ -26,5 +26,5 @@ story:
  
  
  
-anggota di inginkan: 3-6 ( terserah sih :> ) 
-game referance: Lost saga(utama), genshin, tower of fantasy, dll
+Anggota di inginkan: 3-6 ( terserah sih :> ) 
+Game refrence: Lost saga(utama), genshin, tower of fantasy, dll
