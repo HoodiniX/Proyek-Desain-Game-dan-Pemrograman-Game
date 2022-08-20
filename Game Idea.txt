@@ -3,12 +3,12 @@ Genre    : adventure, action, rpg, platformer (mungkin puzzle)
 Target user   : yang suka mempertualangi dunia yang bermacam dengan tema berbeda (tergantung berapa bisa kita) dan combat yang banyak variasi(masih tergantung berapa bisa kita) 
 Character   : dari 1 sampai terserah tergantung berapa bisa 
 Action   : bisa lompat, attack, defend, counter attack dan menggunakan effect yang bervariasi (tergantung berapa bisa kita) 
-M<ap    : 
+Map    : 
 banyak objek tertentu bedasarkan dunia yang di buat 
 background tergantung tema dunia yang ada 
  
  
-Komplesitas program : 
+Kompleksitas program : 
 banyak transisi (mungkin) 
 banyak collision (tergantung) 
 banyak model (tergantung) 
