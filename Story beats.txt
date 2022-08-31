@@ -108,13 +108,62 @@ what:setelah melalui jalan rahasia, player melawan raja yang terkutuk oleh Void
 
 
 
-stage 1.2 Sci-fi world:
-Scene 1:
-plot: player dengan teamnya (termasuk assassin) pergi melewati portal dan tiba di sebuah dunia lain. Disana mereka melihat sebuah medan perang yang barusan saja memiliki aktivitas. Mereka mengecek daerah tersebut dan melihat bahwa ada seorang tentara terluka. Selagi mereka coba membantu tentara tersebut, mereka diserang oleh tentara hitam yang mengunakan baju yang sangat modern. Tim player kemudian mengalahkan tentara musuh tersebut dan membawa tentara terluka tersebut keluar dari medan perang.
-where: Medan perang dimensi B
-when : Setelah player melalui portal
-who : player, ksatria, gadis mecha, assassin, tentara
-what : Setelah melewati portal, player selamatkan tentara.
+stage 1.2 sci-fi world:
+scene 1:
+plot:
+player dan teamnya pergi melalui gerbang dunia ke dunia sci-fi dan setelah sampai, player melihat bahwa mereka di gurun pasir dengan banyak badan prajurit dalam armor dengan warna berbeda antara hitam dan putih, tiba-tiba player dan teamnya timbul di tembaki laser dari satu sisi lain dan lari ke arah kebalikan dari tembakan sampai akhirnya mereka ketemu gua tambang dengan seorang prajurit putih dengan armor yang lebih canggih dalam kesakitan, prajurit tersebut memperkenalkan diri sebagai commando team dalam misi di padang gurun ini lalu dan meminta bantuan player untuk kabur dari gurun ini melalui spaceshipnya yang landing di dekat tower signal besar di jarak jauh
+where:di padang gurun pasir
+when:setelah melalui gerbang dunia sci-fi
+who:player, ksatria, gadis mecha, space commando
+what:player memasuki gerbang dunia, lari dari prajurit hitam dan ketemu commando putih lalu membantu dia kabur
+
+scene 2:
+plot:
+setelah player sampai di spaceship commando, mereka di temui oleh prajurit hitam banyak dan juga ada commando prajurit hitam dengan player team melawan dia dan setelah menang pergi ke luar angkasa
+where:di depan spaceship commando
+when:setelah tiba di depan spaceship commando
+who:player, ksatria, gadis mecha, space commando, space commando hitam
+what:player sampai spaceship commando dan melawan commando hitam yang menjaga spaceshipnya
+
+scene 3:
+plot:
+
+where:Kapital planet republic, hangar ibu kota republic
+when:setelah mencapai kapital planet republic
+who:player, ksatria, gadis mecha, space commando
+what:player dan teamnya landing di dock ibu kota dan membawa commando ke central command dimana player team sadar bahwa sisi republic menyerah ke sisi empire, commando lalu kabur dengan player team ke spaceship hanya untuk melihat spaceship telah di dismantle lalu menyembunyikan diri dalam kantin
+
+scene 4:
+plot:
+setelah menyembunyikan diri, player dengan teamnya ketemu dengan sebuah droid yang mendekati mereka dan menjelaskan bahwa alasan republic menyerah kepada empire adalah karena emperor telah secara diam diam menggunakan mind control device untuk pertama mengendalikan president republic lalu perlahan mengendalikan seluruh republic, dengan pengetahuan baru ini commando sangat marah dan meminta bantuan player untuk melawan emperor karena tidak ada banyak yang tidak dalam kendalian emperor, lalu droid membilang ada cara untuk membeli spaceship baru dengan dealer di kantin tetapi membutuhkan duit banyak, lalu player dan teamnya harus mecari tau cara dapat uang yang cukup
+where:di dalam kantin
+when:setelah menyembunyikan diri dari prajurit empire
+who:player, ksatria, gadis mecha, space commando, Droid
+what:dalam kantin team ketemu dengan sebuah robot droid yang menjelaskan kenapa republic kalah dan commando meminta bantuan player untuk mengalahkan emperor jahat yang menggunakan tactic jahat yang melanggar hak manusia lalu player team harus mengumpulkan uang yang cukup untuk membuat spaceship baru
+
+scene 5:
+plot:
+
+where:di hangar
+when:setelah bicara dengan dealer dalam kantin dan mempunyai uang cukup
+who:player, ksatria, gadis mecha, space commando, Droid, bounty hunter
+what:player dengan teamnya membuat spaceship baru dan tetapi di tipu penjualnya yang sebenarnya seorang empire spy dan player harus mengalahkan bounty hunter terbaik di galaxy sebelum bisa mencuri spaceshipnya
+
+scene 6:
+plot:
+
+where:menara emperor
+when:setelah capai kapital planet empire
+who:player, ksatria, gadis mecha, space commando, Droid, space emperor
+what:player crash landing ke menara emperor dan melawan banyak prajurit hitam dengan pada akhirnya ketemu space emperor yang tertutupi dengan bayangan void, lalu player dan teamnya menyerang emperor, dengan emperor memasuki mecha suit canggih dan melawan team nya player
+
+scene 7:
+plot:
+
+where:menara space emperor
+when:setelah mengalahkan space emperor
+who:player, ksatria, gadis mecha, space commando, Droid, space emperor
+what: setelah mengalahkan space emperor, dia lansung melenyap menjadi debu karena umurnya jauh melebihi batasnya hidupnya dan commando menhentikan mind control device di menara emperor dan menyelamatkan seluruh galaxy dengan president dari republic memberi medal dan title saviors of the galaxy di besok harinya di kapital planet republic
 
 
 
