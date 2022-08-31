@@ -116,3 +116,39 @@ when : Setelah player melalui portal
 who : player, ksatria, gadis mecha, assassin, tentara
 what : Setelah melewati portal, player selamatkan tentara.
 
+
+
+stage 2:
+scene 1:
+plot:saat player istirahat di rumahnya, tiba-tiba dia merasakan sesuatu buruk ke arah timur island dengan firasatnya benar karena ada muncul asap hitam yang perlahan-lahan menuju seluruh bagian floating island, teamnya player mencoba mengikuti player tetapi tidak ada yang bisa masuk tanpa sakit ke dalam asap hitam selain player jadi player maju sendiri
+where:center region on the floating island
+when:setelah selesai menyelamatin 2 dunia
+who:player
+what:tiba-tiba ada asap hitam muncul di sebelah timur dari floating island dan player pergi ke sana untuk mencari tau penyebabnya
+
+scene 2:
+plot:
+dalam asap hitam player melihat bahwa musuh-musuh yang dia pernah lawan muncul lagi dari asap hitam tersebut menjadi bayangan seperti saat pertama bangun, saat player mengalahkan semua musuh, player area penuh portal dimana bayangan musuh terkuat muncul dengan setiap portal mengirim energi untuk barrier yang menghentikan player untuk maju, jadi player mulai melawan musuh terkuat dalam portal sebelum melanjutkan
+where:Center to Eastern region on the floating island
+when:setelah memasuki asap hitam
+who:Player, bayangan
+what:Player ketemu musuh yang sebelumnya dia lawan di 2 dunia dia selamatkan dengan di akhirnya ada musuh terkuat dia pernah lawan satu per satu (BOSS RUSH)
+
+
+scene 3:
+plot:
+player di sisi lain barrier ketemu dengan makluk yang jauh lebih jahat dan tidak benar, dan dia tanpa membilang apa pun menyerang player
+where:Eastern region on the floating island
+when:setelah melalui barrier
+who:Player, Void creature
+what:Player melawan void creature dan setelah mengalahkan, membuat dunia lain terbuka dari segel void
+
+scene 4(epilogue):
+plot:
+where:
+when:
+who:
+what:
+
+END
+
