@@ -143,28 +143,27 @@ what:dalam kantin team ketemu dengan sebuah robot droid yang menjelaskan kenapa 
 
 scene 5:
 plot:
-
+player dengan teamnya membuat spaceship baru dan tetapi di tipu penjualnya yang sebenarnya seorang empire spy dan player harus mengalahkan bounty hunter terbaik di galaxy sebelum bisa mencuri spaceshipnya
 where:di hangar
 when:setelah bicara dengan dealer dalam kantin dan mempunyai uang cukup
 who:player, ksatria, gadis mecha, space commando, Droid, bounty hunter
-what:player dengan teamnya membuat spaceship baru dan tetapi di tipu penjualnya yang sebenarnya seorang empire spy dan player harus mengalahkan bounty hunter terbaik di galaxy sebelum bisa mencuri spaceshipnya
+what: player membeli spaceship dan tertipu lalu rencana mencurinya tetapi harus melawan bounty hunter sebelum bisa
 
 scene 6:
 plot:
-
+player crash landing ke menara emperor dan melawan banyak prajurit hitam dengan pada akhirnya ketemu space emperor yang tertutupi dengan bayangan void, lalu player dan teamnya menyerang emperor, dengan emperor memasuki mecha suit canggih dan melawan team nya player
 where:menara emperor
 when:setelah capai kapital planet empire
 who:player, ksatria, gadis mecha, space commando, Droid, space emperor
-what:player crash landing ke menara emperor dan melawan banyak prajurit hitam dengan pada akhirnya ketemu space emperor yang tertutupi dengan bayangan void, lalu player dan teamnya menyerang emperor, dengan emperor memasuki mecha suit canggih dan melawan team nya player
+what: player dan teamnya crash landing di menara emperor, melawan banyak prajurit lalu melawan space emperor
 
 scene 7:
 plot:
-
+setelah mengalahkan space emperor, dia lansung melenyap menjadi debu karena umurnya jauh melebihi batasnya hidupnya dan commando menhentikan mind control device di menara emperor dan menyelamatkan seluruh galaxy dengan president dari republic memberi medal dan title saviors of the galaxy di besok harinya di kapital planet republic
 where:menara space emperor
 when:setelah mengalahkan space emperor
 who:player, ksatria, gadis mecha, space commando, Droid, space emperor
-what: setelah mengalahkan space emperor, dia lansung melenyap menjadi debu karena umurnya jauh melebihi batasnya hidupnya dan commando menhentikan mind control device di menara emperor dan menyelamatkan seluruh galaxy dengan president dari republic memberi medal dan title saviors of the galaxy di besok harinya di kapital planet republic
-
+what: setelah mengalahkan space emperor, mind control di matikan dan player dengan teamnya di beri hadiah oleh president republic
 
 
 stage 2:
