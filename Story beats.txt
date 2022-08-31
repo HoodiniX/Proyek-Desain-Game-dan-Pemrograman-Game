@@ -10,69 +10,51 @@ what:
 
 Stage 0(prologue): fracture in time and space
 
-Scene 1:
-
+stage 1.1 Fantasy world:
+scene 1:
 plot:
-player bagun dan sadar bahwa dia ada di tempat yang tidak normal dengan langit di atas penuh dengan warna putih dengan jurang di bawah yang juga putih dan tanpa batas
-
-player sadar bahwa dia di atas floating island dengan ada 1 jalan tersisa dan player mengikuti nya sambil melewati rintangan seperti jurang dll untuk memperkanalkan control dasar player
-
-where: di floating island in the outer western region
-when: setelah player bangun
-who: player
-what: player bangun, mengetahui kelilingnya dan menjelajahi dunia
+player dan team nya pergi melalui gerbang dunia ke fantasy world dan setelah sampai, mereka ketemu dengan gadis elf yang pada awalnya ingin menyerang player tetapi ada teriakan untuk minta tolong terdengar dari arah gunung yang bisa di lihat di jarak jauh dan gadis elf tersebut pergi dengan cepat tanpa mengkhawatirkan player team, player dan grup nya setuju untuk mengikuti gadis elf karena dia keliatan dalam masalah dan mereka tidak tau di mana hutan ini dan musuh nya apa aja
+where: di dalam hutan dengan gunung bisa dilihat dalam jarak jauh
+when: setelah melewati gerbang ke fantasy world
+who:player, ksatria, gadis mecha
+what:Player dan grup nya melalu gerbang dunia dan ketemu dengan gadis elf yang mengejar sosok yang teriak dan minta bantuan dengan player dan grup nya mengikuti
 
 scene 2:
-
 plot:
-player lalu dalam battle pertama setelah ketemu bayangan hitang yang menyerang dia dimana player belajar mekanik combat seperti attacking dan blocking dll
-
-saat waktu tertentu jika player tidak mengkalahkan bayangan atau mengalahkan bayangan atau kalah, akan ada ksatria datang untuk membasmi bayangan tersebut
-
-where: between the outer western region and the inner western region on the floating island
-when: setelah player berjalan melalui rintangan dan ketemu bayangan
-who: player, bayangan dan ksatria
-what: player ketemu bayngan dan bertarung
+setelah ketemu dengan elf selesai mengejarnya, player melihat bahwa gadis elf dalam masalah dengan melawan pohon hitam dengan mulut dan mata penuh api, sedang membawa gadis kecil dan melukai gadis elf, player dan teamnya bekerja sama dengan gadis elf untuk mengalahkan pohon tersebut dan setelah terkalahkan pohon dan gadis kecil yang merupakan putri dari elf kingdom yaitu anak gadis elf, gadis elf mengikuti player team setelah dia tau tujuan kenapa player di dunia ini
+where:di bawah gunung besar
+when:setelah melewati hutan saat mencari gadis elf
+who:player, ksatria, gadis mecha, gadis elf, pohon hitam
+what:player bekerja sama dengan gadis elf untuk melawan musuh dan gadis elf mengikuti team player
 
 scene 3:
-
-ksatria tersebut setelah menjelaskan kenapa dia di sini, player berteman dengan ksatria tersebut dan dia bergabung team mu, setelah itu player melewati rintangan dan musuh-musuh lain dengan menjelaskan system character swap untuk menyelesaikan puzzle dan mengcombo
-
-where: inner western region on the floating island
-when: setelah player ketemu ksatria
-who: player, ksatria, bayangan-bayangan
-what: player dan ksatria menuju ke timur melalui rintangan dan monster bayangan
+plot:
+setelah mencapai kerajaan manusia, gadis elf ingin melihat keluarga royal dari kerajaan tersebut tetapi anehnya gadis elf di tolak dan di bilang bahwa keluarga royal menjadi aneh selama tahun ini dengan mengambil tax yang lebih besar dan mengabaikan kata kata rakyat kerjaan dengan yang melawan perintahnya lansung di bunuh tanpa kata lain, lalu player bisa merasakan dalam hatinya bahwa dalam kerajaan ini adalah sumber masalah kenapa dia datang kesini dan membilang ke timnya, dengan itu player dengan team nya mencari tau cara untuk masuk ke kastil kerajaan dan menatap raja di dalam
+where:kerajaan manusia
+when:setelah capai kerajaan manusia
+who:player, ksatria, gadis mecha, gadis elf, 
+what:gadis elf ingin pergi ke kerajaan terbesar manusia untuk meminta bantuan nya tetapi anehnya keluarga royal tidak mau melihat gadis elf atau siapapun kecuali beberapa orang yang membuat player team curiga dan rencana untuk mencari cara untuk memasuki kastil kerajaan
 
 scene 4:
 plot:
-setelah melewati rintangan dan musuh di jalan, player ketemu portal keluar tetapi ada gadis dalam mecha suit yang keliatannya seluruh badannya tertutupi bayangan dan setelah gadis tersebut meiihat player dan pertarungan yang susah pertama mulai (boss battle)
-
-where: center region on the floating island
-when: setelah mencapai region tengah floating island
-who: player, ksatria dan gadis mecha(controlled)
-what: player ketemu gadis tertutupi bayangan dan bertarung
+player dan teamnya ketemu dengan assasin yang dengar tujuan player setelah dia membantu kota atau player ketemu dengan assasin setelah melawan soldier di depan gerbang kastil, assasin mau kerja sama dengan player untuk membunuh raja yang merusak kerajaan ini dan mengetahui jalan rahasia dekat gerbang kastil tetapi ketemu dengan general terkuat kerajaan yaitu saudaranya sebelum bisa masuk ke dalam jalan rahasia
+where:di depan gerbang kastil
+when: setelah ketemu dengan sosok yang tersembunyi dalam baju
+who:player, ksatria, gadis mecha, gadis elf, assasin, general
+what: player ketemu assasin setelah membantu masyarakat atau melawan soldier di depan gerbang dan membawa player ke jalan rahasia ke dalam kastil tetapi ketemu general terkuat kerajaan
 
 scene 5:
 plot:
-setelah mengalahkannya player bekerja sama dengan sosok yang muncul dimana player harus ke dunia dunia lain untuk membasmi bayangan tersebut atau Void yang ingin menghacurkan semua dunia
+setelah player team masuk dalam kastil, mereka sadar bahwa raja terkutuk oleh Void dan ingin membuat prajurit dari makhluk mati dan hidup dengan kekuatan void, player dengan teamnya melawan raja
+where:di dalam kasil
+when:setelah mengalahkan general dan masuk kedalam kastil melalui jalan rahasia penuh monster dari kastil
+who:player, ksatria, gadis mecha, gadis elf, assasin, raja
+what:setelah melalui jalan rahasia, player melawan raja yang terkutuk oleh Void
 
-where: center region on the floating island
-when: setelah mengalahkan gadis mecha
-who: player, ksatria, gadis mecha, dan ?
-what: player ketemu sosok misterius dan berkerja sama dengan dia untuk menyelamatkan dunia-dunia lain
-
-stage 1: new savior
-player ada beberapa pilihan untuk melakukan misinya, setelah menyelesaikan semua pilihan dunia, player lanjut ke stage 2
-dunia pilihan:
-fantasy world 
-sci-fi world 
-
-stage 1 Fantasy world:
-scene 1:
-
-stage 1 sci-fi world:
-scene 1:
-
-
-stage 1.5:
-player melanjutkan main story dll gtw 
+scene 6:
+plot:
+setelah mengalahkan raja dan void terbasmi, raja terimakasih dengan player dengan team nya dengan memberikan banyak hadiah, setelah player tidak ada urusan dalam dunia ini, player keluar dari dunia dengan assasin mengikuti tapi gadis elf tidak ikut tetapi mungkin bisa ikut setelah anaknya menjadi ratu
+where:center region of the floating island
+when:setelah mengalahkan raja terkutuk
+who:player, ksatria, gadis mecha, gadis elf, assasin, raja
+what:setelah melalui jalan rahasia, player melawan raja yang terkutuk oleh Void
