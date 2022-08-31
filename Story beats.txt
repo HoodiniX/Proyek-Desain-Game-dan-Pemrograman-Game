@@ -1,14 +1,61 @@
-template:
-scene 1:
-plot:
-where:
-when:
-who:
-what:
-
-
-
 Stage 0(prologue): fracture in time and space
+
+Scene 1:
+
+plot:
+player bagun dan sadar bahwa dia ada di tempat yang tidak normal dengan langit di atas penuh dengan warna putih dengan jurang di bawah yang juga putih dan tanpa batas
+
+player sadar bahwa dia di atas floating island dengan ada 1 jalan tersisa dan player mengikuti nya sambil melewati rintangan seperti jurang dll untuk memperkanalkan control dasar player
+
+where: di floating island in the outer western region
+when: setelah player bangun
+who: player
+what: player bangun, mengetahui kelilingnya dan menjelajahi dunia
+
+scene 2:
+
+plot:
+player lalu dalam battle pertama setelah ketemu bayangan hitang yang menyerang dia dimana player belajar mekanik combat seperti attacking dan blocking dll
+
+saat waktu tertentu jika player tidak mengkalahkan bayangan atau mengalahkan bayangan atau kalah, akan ada ksatria datang untuk membasmi bayangan tersebut
+
+where: between the outer western region and the inner western region on the floating island
+when: setelah player berjalan melalui rintangan dan ketemu bayangan
+who: player, bayangan dan ksatria
+what: player ketemu bayngan dan bertarung
+
+scene 3:
+
+ksatria tersebut setelah menjelaskan kenapa dia di sini, player berteman dengan ksatria tersebut dan dia bergabung team mu, setelah itu player melewati rintangan dan musuh-musuh lain dengan menjelaskan system character swap yaitu kekuatan special player untuk menyelesaikan puzzle dan mengcombo
+
+where: inner western region on the floating island
+when: setelah player ketemu ksatria
+who: player, ksatria, bayangan-bayangan
+what: player dan ksatria menuju ke timur melalui rintangan dan monster bayangan
+
+scene 4:
+plot:
+setelah melewati rintangan dan musuh di jalan, player ketemu portal keluar tetapi ada gadis dalam mecha suit yang keliatannya seluruh badannya tertutupi bayangan dan setelah gadis tersebut meiihat player dan pertarungan yang susah pertama mulai (boss battle)
+
+where: center region on the floating island
+when: setelah mencapai region tengah floating island
+who: player, ksatria dan gadis mecha(controlled)
+what: player ketemu gadis tertutupi bayangan dan bertarung
+
+scene 5:
+plot:
+setelah mengalahkannya player bekerja sama dengan sosok yang muncul dimana player harus ke dunia dunia lain untuk membasmi bayangan tersebut atau Void yang ingin menghacurkan semua dunia
+
+where: center region on the floating island
+when: setelah mengalahkan gadis mecha
+who: player, ksatria, gadis mecha, dan ?
+what: player ketemu sosok misterius dan berkerja sama dengan dia untuk menyelamatkan dunia-dunia lain
+
+stage 1: new savior
+player ada beberapa pilihan untuk melakukan misinya, setelah menyelesaikan semua pilihan dunia, player lanjut ke stage 2
+dunia pilihan:
+fantasy world 
+sci-fi world 
 
 stage 1.1 Fantasy world:
 scene 1:
@@ -26,13 +73,6 @@ where:di bawah gunung besar
 when:setelah melewati hutan saat mencari gadis elf
 who:player, ksatria, gadis mecha, gadis elf, pohon hitam
 what:player bekerja sama dengan gadis elf untuk melawan musuh dan gadis elf mengikuti team player
-
-
-
-
-
-
-
 
 scene 3:
 plot:
@@ -60,11 +100,12 @@ what:setelah melalui jalan rahasia, player melawan raja yang terkutuk oleh Void
 
 scene 6:
 plot:
-setelah mengalahkan raja dan void terbasmi, raja terimakasih dengan player dengan team nya dengan memberikan banyak hadiah, setelah player tidak ada urusan dalam dunia ini, player keluar dari dunia dengan assasin mengikuti tapi gadis elf tidak ikut tetapi mungkin bisa ikut setelah anaknya menjadi ratu
+setelah mengalahkan raja dan void terbasmi, raja terimakasih dengan player dengan team nya dengan memberikan banyak hadiah, setelah player tidak ada urusan dalam dunia ini, player keluar dari dunia dengan assasin dan gadis elf tidak ikut
 where:center region of the floating island
 when:setelah mengalahkan raja terkutuk
 who:player, ksatria, gadis mecha, gadis elf, assasin, raja
 what:setelah melalui jalan rahasia, player melawan raja yang terkutuk oleh Void
+
 
 
 stage 1.2 Sci-fi world:
