@@ -27,6 +27,13 @@ when:setelah melewati hutan saat mencari gadis elf
 who:player, ksatria, gadis mecha, gadis elf, pohon hitam
 what:player bekerja sama dengan gadis elf untuk melawan musuh dan gadis elf mengikuti team player
 
+
+
+
+
+
+
+
 scene 3:
 plot:
 setelah mencapai kerajaan manusia, gadis elf ingin melihat keluarga royal dari kerajaan tersebut tetapi anehnya gadis elf di tolak dan di bilang bahwa keluarga royal menjadi aneh selama tahun ini dengan mengambil tax yang lebih besar dan mengabaikan kata kata rakyat kerjaan dengan yang melawan perintahnya lansung di bunuh tanpa kata lain, lalu player bisa merasakan dalam hatinya bahwa dalam kerajaan ini adalah sumber masalah kenapa dia datang kesini dan membilang ke timnya, dengan itu player dengan team nya mencari tau cara untuk masuk ke kastil kerajaan dan menatap raja di dalam
@@ -58,3 +65,13 @@ where:center region of the floating island
 when:setelah mengalahkan raja terkutuk
 who:player, ksatria, gadis mecha, gadis elf, assasin, raja
 what:setelah melalui jalan rahasia, player melawan raja yang terkutuk oleh Void
+
+
+stage 1.2 Sci-fi world:
+Scene 1:
+plot: player dengan teamnya (termasuk assassin) pergi melewati portal dan tiba di sebuah dunia lain. Disana mereka melihat sebuah medan perang yang barusan saja memiliki aktivitas. Mereka mengecek daerah tersebut dan melihat bahwa ada seorang tentara terluka. Selagi mereka coba membantu tentara tersebut, mereka diserang oleh tentara hitam yang mengunakan baju yang sangat modern. Tim player kemudian mengalahkan tentara musuh tersebut dan membawa tentara terluka tersebut keluar dari medan perang.
+where: Medan perang dimensi B
+when : Setelah player melalui portal
+who : player, ksatria, gadis mecha, assassin, tentara
+what : Setelah melewati portal, player selamatkan tentara.
+
