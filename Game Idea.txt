@@ -1,5 +1,5 @@
 Tema    : Fighting 3D action adventure
-Genre    : adventure, action, rpg, platformer (mungkin puzzle) 
+Genre    : adventure, action, rpg, platformer puzzle
 Target user   : yang suka adventure dengan 3D action fighting 
 Character   : sekitar 11 (player, Knight, Mech girl, Elf, Assasin, Space Commando, Droid, Corrupted tree, Evil king, Bounty Hunter, Space Emperor)
 Action   : bisa lompat, attack, defend, counter attack dan menggunakan effect yang bervariasi (tergantung character yang digunakan seperti double jump) 
