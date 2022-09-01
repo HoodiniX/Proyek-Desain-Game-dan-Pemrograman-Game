@@ -1,7 +1,7 @@
 Tema    : Fighting 3D action adventure
 Genre    : adventure, action, rpg, platformer (mungkin puzzle) 
 Target user   : yang suka mempertualangi dunia yang bermacam dengan tema berbeda (tergantung berapa bisa kita) dan combat yang banyak variasi(masih tergantung berapa bisa kita) 
-Character   : dari 1 sampai terserah tergantung berapa bisa 
+Character   : sekitar 6
 Action   : bisa lompat, attack, defend, counter attack dan menggunakan effect yang bervariasi (tergantung character yang digunakan) 
 Map    : 
 Floating Island in the Fracture of SpaceTime
@@ -16,10 +16,26 @@ Empire Tower
  
  
 Kompleksitas program : 
-banyak transisi 
+banyak transisi
 banyak collision
 banyak model 
 banyak effect
+banyak puzzle
+
+camera sudut pandang top down dari samping
+gamenya bedasarkan untuk menggunakan banyak karakter sekaligus untuk membuat combo atau mengeluarkan dps yang optimal atau menyelesaikan puzzle tertentu seperti puzzle yang butuh knockback tinggi tapi harus di angkat tinggi dulu yang berarti butuh 1 character yang punya knockback besar dan lift power besar
+
+stat-stat dalam game:
+HP (Health points) = jumlah yang menentukan berapa damage sebelum kalah yang tunjukan dalam bentuk angka seperti 100, regenerasi di luar battle
+Special Skills = gerakan-gerakan kuat yang mungkin ada effect special, yang terbatas bedasarkan jumlah SP dengan beberapa Skill punya harga berbeda menggunakan SP
+Special Power = Special Skills tapi selalu aktif selama character dalam play dan mengkurangi regenerasi SP seperti increased defense
+SP (Special Points) = jumlah yang digunakan Special Skills yang di hitung bedasarkan angka seperti 100, regenarasi secara pasif dan dapat saat memberi atau menerima damage
+Block = setiap character bisa mentangkis tetapi tidak selalu mentangkis karena saat beberapa saat akan behenti tangkis sekejap kecuali jika ada Special Power
+
+
+
+
+
 
  
 Kesimpulan: tergantung berapa bisa asalkan bisa platforming 
