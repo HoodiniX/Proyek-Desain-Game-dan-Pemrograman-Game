@@ -6,7 +6,7 @@ Action   : bisa lompat, attack, defend, counter attack dan menggunakan effect ya
 Map    : 
 Floating Island in the Fracture of SpaceTime
 Forest
-Midievel City
+Medieval City
 Castle
 Desert
 Space Hangar
@@ -22,7 +22,7 @@ banyak transisi
 banyak collision
 banyak model 
 banyak effect
-banyak puzzle
+banyak puzzle (Memukul beberapa object dalam urutan yang spesifik, Mendorong sebuah object untuk membuat jalur atau menahan sebuah switch, Menembak projectile dari posisi dan sudut tertentu yang jauh dari jangkauan manual)
 camera sudut pandang top down dari samping
 Items
 
@@ -71,7 +71,7 @@ saat waktu tertentu jika player tidak mengkalahkan bayangan atau mengalahkan bay
 where: between the outer western region and the inner western region on the floating island
 when: setelah player berjalan melalui rintangan dan ketemu bayangan
 who: player, bayangan dan ksatria
-what: player ketemu bayngan dan bertarung
+what: player ketemu bayangan dan bertarung
 
 scene 3:
 
@@ -93,7 +93,7 @@ what: player ketemu gadis tertutupi bayangan dan bertarung
 
 scene 5:
 plot:
-setelah mengalahkannya player bekerja sama dengan sosok yang muncul dimana player harus ke dunia dunia lain untuk membasmi bayangan tersebut atau Void yang ingin menghacurkan semua dunia
+setelah mengalahkannya, player bekerja sama dengan sosok yang muncul dimana player harus ke dunia dunia lain untuk membasmi bayangan tersebut atau Void yang ingin menghacurkan semua dunia
 
 where: center region on the floating island
 when: setelah mengalahkan gadis mecha
