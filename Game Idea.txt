@@ -2,7 +2,7 @@ Tema    : Fighting 3D action adventure
 Genre    : adventure, action, rpg, platformer (mungkin puzzle) 
 Target user   : yang suka adventure dengan 3D action fighting 
 Character   : sekitar 11 (player, Knight, Mech girl, Elf, Assasin, Space Commando, Droid, Corrupted tree, Evil king, Bounty Hunter, Space Emperor)
-Action   : bisa lompat, attack, defend, counter attack dan menggunakan effect yang bervariasi (tergantung character yang digunakan) 
+Action   : bisa lompat, attack, defend, counter attack dan menggunakan effect yang bervariasi (tergantung character yang digunakan seperti double jump) 
 Map    : 
 Floating Island in the Fracture of SpaceTime
 Forest
@@ -22,7 +22,7 @@ banyak transisi
 banyak collision
 banyak model 
 banyak effect
-banyak puzzle (Memukul beberapa object dalam urutan yang spesifik, Mendorong sebuah object untuk membuat jalur atau menahan sebuah switch, Menembak projectile dari posisi dan sudut tertentu yang jauh dari jangkauan manual)
+banyak puzzle (Memukul beberapa object dalam urutan yang spesifik, Mendorong sebuah object untuk membuat jalur atau menahan sebuah switch, Menembak projectile dari posisi dan sudut tertentu yang jauh dari jangkauan manual, dll)
 camera sudut pandang top down dari samping
 Items
 
