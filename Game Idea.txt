@@ -39,12 +39,6 @@ Block = setiap character bisa mentangkis tetapi tidak selalu mentangkis karena s
 state = kondisi character player yang bisa mempengaruhi stat atau tindakan player seperti tidak bisa block atau lompat
 
 
-
-
-
-
- 
-Kesimpulan: tergantung berapa bisa asalkan bisa platforming 
  
 Story: 
 Stage 0(prologue): fracture in time and space
