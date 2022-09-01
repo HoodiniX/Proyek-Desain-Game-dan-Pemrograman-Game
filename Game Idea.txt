@@ -1,30 +1,224 @@
-Tema    : Pertualangan dimana kamu di dunia lain dimana banyak traveler lain dari dunia bermacam lain-lain untuk pulang kembali 
+Tema    : Fighting 3D action adventure
 Genre    : adventure, action, rpg, platformer (mungkin puzzle) 
 Target user   : yang suka mempertualangi dunia yang bermacam dengan tema berbeda (tergantung berapa bisa kita) dan combat yang banyak variasi(masih tergantung berapa bisa kita) 
 Character   : dari 1 sampai terserah tergantung berapa bisa 
-Action   : bisa lompat, attack, defend, counter attack dan menggunakan effect yang bervariasi (tergantung berapa bisa kita) 
+Action   : bisa lompat, attack, defend, counter attack dan menggunakan effect yang bervariasi (tergantung character yang digunakan) 
 Map    : 
-banyak objek tertentu bedasarkan dunia yang di buat 
-background tergantung tema dunia yang ada 
+Floating Island in the Fracture of SpaceTime
+Forest
+Midievel City
+Castle
+Desert
+Space Hangar
+Cantina
+Empire Tower
+
  
  
 Kompleksitas program : 
-banyak transisi (mungkin) 
-banyak collision (tergantung) 
-banyak model (tergantung) 
-banyak mekanik (tergantung) 
-banyak misi (tergantung) 
+banyak transisi 
+banyak collision
+banyak model 
+banyak effect
+
  
 Kesimpulan: tergantung berapa bisa asalkan bisa platforming 
  
 Story: 
- Kamu suatu hari saat tidur timbul bangun di di ruins lama dimana kamu ketemu seseorang dalam armor yang berkilap dan ekstravagan dengan mahkota di kepalanya, dia menjelaskan bahwa dia adalah pahlawan ksatria legendaris. Ini membuat kita bingung apakah yang telah terjadi kepada kita? dan juga dia menjelaskan hal hal aneh seperti sihir dan dewa adalah hal yang biasa disini. Kamu tidak tau apa yang terjadi tapi kamu ingin pulang karena adik mu sakit dan kamu adalah keluarga satu satunya. 
+Stage 0(prologue): fracture in time and space
+
+Scene 1:
+
+plot:
+player bagun dan sadar bahwa dia ada di tempat yang tidak normal dengan langit di atas penuh dengan warna putih dengan jurang di bawah yang juga putih dan tanpa batas
+
+player sadar bahwa dia di atas floating island dengan ada 1 jalan tersisa dan player mengikuti nya sambil melewati rintangan seperti jurang dll untuk memperkanalkan control dasar player
+
+where: di floating island in the outer western region
+when: setelah player bangun
+who: player
+what: player bangun, mengetahui kelilingnya dan menjelajahi dunia
+
+scene 2:
+
+plot:
+player lalu dalam battle pertama setelah ketemu bayangan hitang yang menyerang dia dimana player belajar mekanik combat seperti attacking dan blocking dll
+
+saat waktu tertentu jika player tidak mengkalahkan bayangan atau mengalahkan bayangan atau kalah, akan ada ksatria datang untuk membasmi bayangan tersebut
+
+where: between the outer western region and the inner western region on the floating island
+when: setelah player berjalan melalui rintangan dan ketemu bayangan
+who: player, bayangan dan ksatria
+what: player ketemu bayngan dan bertarung
+
+scene 3:
+
+ksatria tersebut setelah menjelaskan kenapa dia di sini, player berteman dengan ksatria tersebut dan dia bergabung team mu, setelah itu player melewati rintangan dan musuh-musuh lain dengan menjelaskan system character swap yaitu kekuatan special player untuk menyelesaikan puzzle dan mengcombo
+
+where: inner western region on the floating island
+when: setelah player ketemu ksatria
+who: player, ksatria, bayangan-bayangan
+what: player dan ksatria menuju ke timur melalui rintangan dan monster bayangan
+
+scene 4:
+plot:
+setelah melewati rintangan dan musuh di jalan, player ketemu portal keluar tetapi ada gadis dalam mecha suit yang keliatannya seluruh badannya tertutupi bayangan dan setelah gadis tersebut meiihat player dan pertarungan yang susah pertama mulai (boss battle)
+
+where: center region on the floating island
+when: setelah mencapai region tengah floating island
+who: player, ksatria dan gadis mecha(controlled)
+what: player ketemu gadis tertutupi bayangan dan bertarung
+
+scene 5:
+plot:
+setelah mengalahkannya player bekerja sama dengan sosok yang muncul dimana player harus ke dunia dunia lain untuk membasmi bayangan tersebut atau Void yang ingin menghacurkan semua dunia
+
+where: center region on the floating island
+when: setelah mengalahkan gadis mecha
+who: player, ksatria, gadis mecha, dan ?
+what: player ketemu sosok misterius dan berkerja sama dengan dia untuk menyelamatkan dunia-dunia lain
+
+stage 1: new savior
+player ada beberapa pilihan untuk melakukan misinya, setelah menyelesaikan semua pilihan dunia, player lanjut ke stage 2
+dunia pilihan:
+fantasy world 
+sci-fi world 
+
+stage 1.1 Fantasy world:
+scene 1:
+plot:
+player dan team nya pergi melalui gerbang dunia ke fantasy world dan setelah sampai, mereka ketemu dengan gadis elf yang pada awalnya ingin menyerang player tetapi ada teriakan untuk minta tolong terdengar dari arah gunung yang bisa di lihat di jarak jauh dan gadis elf tersebut pergi dengan cepat tanpa mengkhawatirkan player team, player dan grup nya setuju untuk mengikuti gadis elf karena dia keliatan dalam masalah dan mereka tidak tau di mana hutan ini dan musuh nya apa aja
+where: di dalam hutan dengan gunung bisa dilihat dalam jarak jauh
+when: setelah melewati gerbang ke fantasy world
+who:player, ksatria, gadis mecha
+what:Player dan grup nya melalu gerbang dunia dan ketemu dengan gadis elf yang mengejar sosok yang teriak dan minta bantuan dengan player dan grup nya mengikuti
+
+scene 2:
+plot:
+setelah ketemu dengan elf selesai mengejarnya, player melihat bahwa gadis elf dalam masalah dengan melawan pohon hitam dengan mulut dan mata penuh api, sedang membawa gadis kecil dan melukai gadis elf, player dan teamnya bekerja sama dengan gadis elf untuk mengalahkan pohon tersebut dan setelah terkalahkan pohon dan gadis kecil yang merupakan putri dari elf kingdom yaitu anak gadis elf, gadis elf mengikuti player team setelah dia tau tujuan kenapa player di dunia ini
+where:di bawah gunung besar
+when:setelah melewati hutan saat mencari gadis elf
+who:player, ksatria, gadis mecha, gadis elf, pohon hitam
+what:player bekerja sama dengan gadis elf untuk melawan musuh dan gadis elf mengikuti team player
+
+scene 3:
+plot:
+setelah mencapai kerajaan manusia, gadis elf ingin melihat keluarga royal dari kerajaan tersebut tetapi anehnya gadis elf di tolak dan di bilang bahwa keluarga royal menjadi aneh selama tahun ini dengan mengambil tax yang lebih besar dan mengabaikan kata kata rakyat kerjaan dengan yang melawan perintahnya lansung di bunuh tanpa kata lain, lalu player bisa merasakan dalam hatinya bahwa dalam kerajaan ini adalah sumber masalah kenapa dia datang kesini dan membilang ke timnya, dengan itu player dengan team nya mencari tau cara untuk masuk ke kastil kerajaan dan menatap raja di dalam
+where:kerajaan manusia
+when:setelah capai kerajaan manusia
+who:player, ksatria, gadis mecha, gadis elf, 
+what:gadis elf ingin pergi ke kerajaan terbesar manusia untuk meminta bantuan nya tetapi anehnya keluarga royal tidak mau melihat gadis elf atau siapapun kecuali beberapa orang yang membuat player team curiga dan rencana untuk mencari cara untuk memasuki kastil kerajaan
+
+scene 4:
+plot:
+player dan teamnya ketemu dengan assasin yang dengar tujuan player setelah dia membantu kota atau player ketemu dengan assasin setelah melawan soldier di depan gerbang kastil, assasin mau kerja sama dengan player untuk membunuh raja yang merusak kerajaan ini dan mengetahui jalan rahasia dekat gerbang kastil tetapi ketemu dengan general terkuat kerajaan yaitu saudaranya sebelum bisa masuk ke dalam jalan rahasia
+where:di depan gerbang kastil
+when: setelah ketemu dengan sosok yang tersembunyi dalam baju
+who:player, ksatria, gadis mecha, gadis elf, assasin, general
+what: player ketemu assasin setelah membantu masyarakat atau melawan soldier di depan gerbang dan membawa player ke jalan rahasia ke dalam kastil tetapi ketemu general terkuat kerajaan
+
+scene 5:
+plot:
+setelah player team masuk dalam kastil, mereka sadar bahwa raja terkutuk oleh Void dan ingin membuat prajurit dari makhluk mati dan hidup dengan kekuatan void, player dengan teamnya melawan raja
+where:di dalam kasil
+when:setelah mengalahkan general dan masuk kedalam kastil melalui jalan rahasia penuh monster dari kastil
+who:player, ksatria, gadis mecha, gadis elf, assasin, raja
+what:setelah melalui jalan rahasia, player melawan raja yang terkutuk oleh Void
+
+scene 6:
+plot:
+setelah mengalahkan raja dan void terbasmi, raja terimakasih dengan player dengan team nya dengan memberikan banyak hadiah, setelah player tidak ada urusan dalam dunia ini, player keluar dari dunia dengan assasin dan gadis elf tidak ikut
+where:center region of the floating island
+when:setelah mengalahkan raja terkutuk
+who:player, ksatria, gadis mecha, gadis elf, assasin, raja
+what:setelah melalui jalan rahasia, player melawan raja yang terkutuk oleh Void
+
+
+
+stage 1.2 sci-fi world:
+scene 1:
+plot:
+player dan teamnya pergi melalui gerbang dunia ke dunia sci-fi dan setelah sampai, player melihat bahwa mereka di gurun pasir dengan banyak badan prajurit dalam armor dengan warna berbeda antara hitam dan putih, tiba-tiba player dan teamnya timbul di tembaki laser dari satu sisi lain dan lari ke arah kebalikan dari tembakan sampai akhirnya mereka ketemu gua tambang dengan seorang prajurit putih dengan armor yang lebih canggih dalam kesakitan, prajurit tersebut memperkenalkan diri sebagai commando team dalam misi di padang gurun ini lalu dan meminta bantuan player untuk kabur dari gurun ini melalui spaceshipnya yang landing di dekat tower signal besar di jarak jauh
+where:di padang gurun pasir
+when:setelah melalui gerbang dunia sci-fi
+who:player, ksatria, gadis mecha, space commando
+what:player memasuki gerbang dunia, lari dari prajurit hitam dan ketemu commando putih lalu membantu dia kabur
+
+scene 2:
+plot:
+setelah player sampai di spaceship commando, mereka di temui oleh prajurit hitam banyak dan juga ada commando prajurit hitam dengan player team melawan dia dan setelah menang pergi ke luar angkasa
+where:di depan spaceship commando
+when:setelah tiba di depan spaceship commando
+who:player, ksatria, gadis mecha, space commando, space commando hitam
+what:player sampai spaceship commando dan melawan commando hitam yang menjaga spaceshipnya
+
+scene 3:
+plot:
+
+where:Kapital planet republic, hangar ibu kota republic
+when:setelah mencapai kapital planet republic
+who:player, ksatria, gadis mecha, space commando
+what:player dan teamnya landing di dock ibu kota dan membawa commando ke central command dimana player team sadar bahwa sisi republic menyerah ke sisi empire, commando lalu kabur dengan player team ke spaceship hanya untuk melihat spaceship telah di dismantle lalu menyembunyikan diri dalam kantin
+
+scene 4:
+plot:
+setelah menyembunyikan diri, player dengan teamnya ketemu dengan sebuah droid yang mendekati mereka dan menjelaskan bahwa alasan republic menyerah kepada empire adalah karena emperor telah secara diam diam menggunakan mind control device untuk pertama mengendalikan president republic lalu perlahan mengendalikan seluruh republic, dengan pengetahuan baru ini commando sangat marah dan meminta bantuan player untuk melawan emperor karena tidak ada banyak yang tidak dalam kendalian emperor, lalu droid membilang ada cara untuk membeli spaceship baru dengan dealer di kantin tetapi membutuhkan duit banyak, lalu player dan teamnya harus mecari tau cara dapat uang yang cukup
+where:di dalam kantin
+when:setelah menyembunyikan diri dari prajurit empire
+who:player, ksatria, gadis mecha, space commando, Droid
+what:dalam kantin team ketemu dengan sebuah robot droid yang menjelaskan kenapa republic kalah dan commando meminta bantuan player untuk mengalahkan emperor jahat yang menggunakan tactic jahat yang melanggar hak manusia lalu player team harus mengumpulkan uang yang cukup untuk membuat spaceship baru
+
+scene 5:
+plot:
+player dengan teamnya membuat spaceship baru dan tetapi di tipu penjualnya yang sebenarnya seorang empire spy dan player harus mengalahkan bounty hunter terbaik di galaxy sebelum bisa mencuri spaceshipnya
+where:di hangar
+when:setelah bicara dengan dealer dalam kantin dan mempunyai uang cukup
+who:player, ksatria, gadis mecha, space commando, Droid, bounty hunter
+what: player membeli spaceship dan tertipu lalu rencana mencurinya tetapi harus melawan bounty hunter sebelum bisa
+
+scene 6:
+plot:
+player crash landing ke menara emperor dan melawan banyak prajurit hitam dengan pada akhirnya ketemu space emperor yang tertutupi dengan bayangan void, lalu player dan teamnya menyerang emperor, dengan emperor memasuki mecha suit canggih dan melawan team nya player
+where:menara emperor
+when:setelah capai kapital planet empire
+who:player, ksatria, gadis mecha, space commando, Droid, space emperor
+what: player dan teamnya crash landing di menara emperor, melawan banyak prajurit lalu melawan space emperor
+
+scene 7:
+plot:
+setelah mengalahkan space emperor, dia lansung melenyap menjadi debu karena umurnya jauh melebihi batasnya hidupnya dan commando menhentikan mind control device di menara emperor dan menyelamatkan seluruh galaxy dengan president dari republic memberi medal dan title saviors of the galaxy di besok harinya di kapital planet republic
+where:menara space emperor
+when:setelah mengalahkan space emperor
+who:player, ksatria, gadis mecha, space commando, Droid, space emperor
+what: setelah mengalahkan space emperor, mind control di matikan dan player dengan teamnya di beri hadiah oleh president republic
+
+
+stage 2:
+scene 1:
+plot:saat player istirahat di rumahnya, tiba-tiba dia merasakan sesuatu buruk ke arah timur island dengan firasatnya benar karena ada muncul asap hitam yang perlahan-lahan menuju seluruh bagian floating island, teamnya player mencoba mengikuti player tetapi tidak ada yang bisa masuk tanpa sakit ke dalam asap hitam selain player jadi player maju sendiri
+where:center region on the floating island
+when:setelah selesai menyelamatin 2 dunia
+who:player
+what:tiba-tiba ada asap hitam muncul di sebelah timur dari floating island dan player pergi ke sana untuk mencari tau penyebabnya
+
+scene 2:
+plot:
+dalam asap hitam player melihat bahwa musuh-musuh yang dia pernah lawan muncul lagi dari asap hitam tersebut menjadi bayangan seperti saat pertama bangun, saat player mengalahkan semua musuh, player area penuh portal dimana bayangan musuh terkuat muncul dengan setiap portal mengirim energi untuk barrier yang menghentikan player untuk maju, jadi player mulai melawan musuh terkuat dalam portal sebelum melanjutkan
+where:Center to Eastern region on the floating island
+when:setelah memasuki asap hitam
+who:Player, bayangan
+what:Player ketemu musuh yang sebelumnya dia lawan di 2 dunia dia selamatkan dengan di akhirnya ada musuh terkuat dia pernah lawan satu per satu (BOSS RUSH)
+
+
+scene 3:
+plot:
+player di sisi lain barrier ketemu dengan makluk yang jauh lebih jahat dan tidak benar, dan dia tanpa membilang apa pun menyerang player
+where:Eastern region on the floating island
+when:setelah melalui barrier
+who:Player, Void creature
+what:Player melawan void creature dan setelah mengalahkan, membuat dunia lain terbuka dari segel void
+
+END
  
- Dalam pertualangan untuk pulang kamu dengan kawan pertama mu dalam dunia ini akan bekerja sama untuk sementara ini untuk keluar dari ruins ini, dalam ruins kamu menghindari trap, menyelasaikan puzzle, menemukan treasure, dan melawan musuh musuh yang terkutuk dan kehilangan kesadaran diri seperti zombie yang hanya mau membunuh, pada akhir dari ruins kamu ketemu dengan orang yang telah membawa kamu ke dunia ini yang ingin kamu untuk membantu dia untuk melawan suatu kekuatan jahat yang bernama The Void yang ingin menghancurin semua dunia supaya omniverse kembali seperti semula yaitu kekosongan yang tidak berakhir, kamu menolak dia dan menanyakan bagaimana caranya untuk pulang, sosok tersebut lalu menghilang dengan kamu mencari dia lagi hanya untuk ketemu dengan seorang gadis dalam mecha suit yang telah terkorupsi dengan kekuatan Void dan menyerang kamu. 
- 
- Setelah bekerja sama untuk melawan gadis tersebut, kamu sadar bahwa saat kamu menyentuh gadis tersebut, kekuatan Void yang mengkutuki dia telah hilang dan gadis tersebut telah kembali jadi normal dengan sosok sebelumnya telah kembali dan menjelaskan bahwa kamu adalah seseorang langka yang mempunyai kekuatan untuk melawan Void bernama "", pada akhirnya kamu berjanji dengan sosok tersebut untuk membantu dunia dunia lain melawan Void dengan pada akhirnya akan di bolehkan pulang dengan 1 wish di kaburkan dengan mengumpulkan team dari bermacam dunia untuk membantu mu. 
- 
- 
- 
-Anggota di inginkan: 3-6 ( terserah sih :> ) 
+Anggota di inginkan: 3-6
 Game refrence: Lost saga(utama), genshin, tower of fantasy, dll
