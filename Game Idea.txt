@@ -16,7 +16,7 @@ Empire Tower
  
  
 Kompleksitas program : 
-menu interface
+Menu interface
 Missions
 banyak transisi
 banyak collision
@@ -26,9 +26,9 @@ banyak puzzle (Memukul beberapa object dalam urutan yang spesifik, Mendorong seb
 camera sudut pandang top down dari samping
 Items
 
-gamenya bedasarkan untuk menggunakan banyak karakter sekaligus untuk membuat combo atau mengeluarkan dps yang optimal atau menyelesaikan puzzle tertentu seperti puzzle yang butuh knockback tinggi tapi harus di angkat tinggi dulu yang berarti butuh 1 character yang punya knockback besar dan lift power besar
+Gamenya bedasarkan untuk menggunakan banyak karakter sekaligus untuk membuat combo atau mengeluarkan dps yang optimal atau menyelesaikan puzzle tertentu seperti puzzle yang butuh knockback tinggi tapi harus di angkat tinggi dulu yang berarti butuh 1 character yang punya knockback besar dan lift power besar
 
-stat-stat dalam game:
+Stat-stat dalam game:
 HP (Health points) = jumlah yang menentukan berapa damage sebelum kalah yang tunjukan dalam bentuk angka seperti 100, regenerasi di luar battle
 DMG = jumlah yang menentukan berapa HP character yang kena serangan berkurang
 Speed = Kecepatan Character bergerak
@@ -94,6 +94,8 @@ when: setelah mengalahkan gadis mecha
 who: player, ksatria, gadis mecha, dan ?
 what: player ketemu sosok misterius dan berkerja sama dengan dia untuk menyelamatkan dunia-dunia lain
 
+End of Prologue.
+
 stage 1: new savior
 player ada beberapa pilihan untuk melakukan misinya, setelah menyelesaikan semua pilihan dunia, player lanjut ke stage 2
 dunia pilihan:
@@ -149,7 +151,7 @@ when:setelah mengalahkan raja terkutuk
 who:player, ksatria, gadis mecha, gadis elf, assasin, raja
 what:setelah melalui jalan rahasia, player melawan raja yang terkutuk oleh Void
 
-
+End of Stage 1.1
 
 stage 1.2 sci-fi world:
 scene 1:
@@ -208,6 +210,7 @@ when:setelah mengalahkan space emperor
 who:player, ksatria, gadis mecha, space commando, Droid, space emperor
 what: setelah mengalahkan space emperor, mind control di matikan dan player dengan teamnya di beri hadiah oleh president republic
 
+End of Stage 1.2
 
 stage 2:
 scene 1:
@@ -224,7 +227,6 @@ where:Center to Eastern region on the floating island
 when:setelah memasuki asap hitam
 who:Player, bayangan
 what:Player ketemu musuh yang sebelumnya dia lawan di 2 dunia dia selamatkan dengan di akhirnya ada musuh terkuat dia pernah lawan satu per satu (BOSS RUSH)
-
 
 scene 3:
 plot:
