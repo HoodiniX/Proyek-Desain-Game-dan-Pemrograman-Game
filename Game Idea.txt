@@ -24,7 +24,7 @@ banyak model
 banyak effect
 banyak puzzle (Memukul beberapa object dalam urutan yang spesifik, Mendorong sebuah object untuk membuat jalur atau menahan sebuah switch, Menembak projectile dari posisi dan sudut tertentu yang jauh dari jangkauan manual, dll)
 camera sudut pandang top down dari samping
-Items
+Items untuk level up, healing dan crafting item lain, dan unlock mission khusus
 
 Gamenya bedasarkan untuk menggunakan banyak karakter sekaligus untuk membuat combo atau mengeluarkan dps yang optimal atau menyelesaikan puzzle tertentu seperti puzzle yang butuh knockback tinggi tapi harus di angkat tinggi dulu yang berarti butuh 1 character yang punya knockback besar dan lift power besar
 
