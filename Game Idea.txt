@@ -54,8 +54,6 @@ scene 2:
 plot:
 Setelah player melalui  rintangan, dia lompat ke floating block dengan player melihat kumpulan cahaya yang lemah dan kecil di tengahnya, dengan curiga player menyentuh nya dan cahaya tersebut bertambah terang dan keluar sebuah bayangan yang menyerang player dan muncul bayangan menutupi floating block dan menghentikan player untuk kabur
 
-saat waktu tertentu jika player tidak mengalahkan bayangan atau mengalahkan bayangan atau kalah, akan ada ksatria datang untuk membasmi bayangan tersebut
-
 where: between the outer western region and the inner western region on the floating island
 when: setelah player sampai floating block dan menyentuh light of hope 
 who: player, bayangan 
