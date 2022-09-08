@@ -32,20 +32,20 @@ Items untuk level up, healing dan crafting item lain, dan unlock mission khusus
 
 Gamenya berdasarkan untuk menggunakan banyak karakter sekaligus untuk membuat combo atau mengeluarkan dps yang optimal atau menyelesaikan puzzle tertentu seperti puzzle yang butuh knockback tinggi tapi harus di angkat tinggi dulu yang berarti butuh 1 character yang punya knockback besar dan lift power besar
 
+
+
 Stat-stat dalam game:
 HP (Health points) = jumlah yang menentukan berapa damage sebelum kalah yang tunjukan dalam bentuk angka seperti 100, regenerasi di luar battle
 DMG = jumlah yang menentukan berapa HP character yang kena serangan berkurang
 Speed = Kecepatan Character bergerak
 Special Skills = gerakan-gerakan kuat yang mungkin ada effect special, yang terbatas berdasarkan jumlah SP dengan beberapa Skill punya harga berbeda menggunakan SP
-Special Power = Special Skills tapi selalu aktif selama character dalam play dan mengkurangi regenerasi SP seperti increased defense
+Special Power = Special Skills tapi selalu aktif selama character dalam play dan mengurangi regenerasi SP seperti increased defense
 SP (Special Points) = jumlah yang digunakan Special Skills yang dihitung berdasarkan angka seperti 100, regenerasi secara pasif dan dapat saat memberi atau menerima damage
 Block = setiap character bisa mentangkis tetapi tidak selalu mentangkis karena saat beberapa saat akan berhenti tangkis sekejap kecuali jika ada Special Power
-state = kondisi character player yang bisa mempengaruhi stat atau tindakan player seperti tidak bisa block atau lompat
+State = kondisi character player yang bisa mempengaruhi stat atau tindakan player seperti tidak bisa block atau lompat
 
-
- 
 Story: 
-Chapter 0 (prologue): fracture in time and space
+Chapter 0 (Prologue): Fracture in time and space
 
 Scene 1:
 plot:
@@ -64,12 +64,6 @@ where: between the outer western region and the inner western region on the floa
 when: setelah player sampai floating block dan menyentuh light of hope 
 who: player, bayangan 
 what: player sampai floating block menyentuh light of hope dan melawan bayangan 
-
-
-
-
-
-
 scene 3:
 Plot:
 Tiba tiba saat player dalam kesalahan, ada ksatria datang untuk membantu melawan bayangan tersebut, dengan setelah ksatria mengikuti timnya player, player timbul punya perasaan untuk bisa menjadi ksatria tersebut dan mengikuti firasatnya dan cahaya di tengah bereaksi dan memberi kekuatan ke player untuk bisa berubah menjadi ksatria, setelah itu player dan ksatria melawan bayangan lagi
@@ -97,6 +91,11 @@ when: setelah mencapai menara cahaya
 who: player, ksatria dan gadis mecha(possessed)
 what: jalan keluar player di tutupi bayangan dan menara cahaya menghilang dengan gadis mecha yang tertutupi bayangan menyerang player
 
+
+
+
+
+
 scene 6:
 plot:
 setelah mengalahkan gadis mecha, menara cahaya muncul lagi dan mengecil hingga menjadi orb terbang yang memperkenalkan dirinya sebagai Hope yang bertanggung jawab atas keteraturan dunia tetapi ternyata dia hampir tersegal penuh oleh Void karena Hope kalah dengan dia, karena itu kekuatannya Void bisa masuk ke banyak Dunia tanpa dihentikan untuk menghancurkan semuanya.
@@ -114,7 +113,7 @@ End of Prologue.
 
 
 Chapter 1: New savior
-player ada beberapa pilihan untuk melakukan misinya, setelah menyelesaikan semua pilihan dunia, player lanjut ke stage 2
+player aa pilihan untuk mda beberapelakukan misinya, setelah menyelesaikan semua pilihan dunia, player lanjut ke stage 2
 dunia pilihan:
 fantasy world 
 sci-fi world 
@@ -122,26 +121,32 @@ sci-fi world
 Chapter 1.1 Fantasy world:
 scene 1:
 plot:
-player dan team nya pergi melalui gerbang dunia ke fantasy world dan setelah sampai, mereka ketemu dengan gadis elf yang pada awalnya ingin menyerang player tetapi ada teriakan untuk minta tolong terdengar dari arah gunung yang bisa di lihat di jarak jauh dan gadis elf tersebut pergi dengan cepat tanpa mengkhawatirkan player team, player dan grup nya setuju untuk mengikuti gadis elf karena dia keliatan dalam masalah dan mereka tidak tau di mana hutan ini dan musuh nya apa aja
+player dan team nya telah melalui gerbang dunia ke fantasy world, setelah keluar dari portal mereka ketemu dengan gadis elf yang pada awalnya ingin menyerang player tetapi ada teriakan untuk minta tolong terdengar dari arah gunung yang bisa di lihat di jarak jauh dan gadis elf tersebut pergi dengan cepat ke arah teriakan tersebut, player terus mengejar gadis tersebut
 where: di dalam hutan dengan gunung bisa dilihat dalam jarak jauh
 when: setelah melewati gerbang ke fantasy world
 who:player, ksatria, gadis mecha
-what:Player dan grup nya melalui gerbang dunia dan ketemu dengan gadis elf yang mengejar sosok yang teriak dan minta bantuan dengan player dan grup nya mengikuti
+what:Player dan grup nya melalui gerbang dunia dan ketemu dengan gadis elf yang mengejar sosok yang teriak
 
 scene 2:
 plot:
-setelah ketemu dengan elf selesai mengejarnya, player melihat bahwa gadis elf dalam masalah dengan melawan pohon hitam dengan mulut dan mata penuh api, sedang membawa gadis kecil dan melukai gadis elf, player dan teamnya bekerja sama dengan gadis elf untuk mengalahkan pohon tersebut dan setelah terkalahkan pohon dan gadis kecil yang merupakan putri dari elf kingdom yaitu anak gadis elf, gadis elf mengikuti player team setelah dia tau tujuan kenapa player di dunia ini
+setelah ketemu dengan elf selesai mengejarnya, player melihat bahwa gadis elf dalam masalah dengan melawan pohon hitam dengan mulut dan mata penuh api, sedang membawa gadis kecil dan melukai gadis elf, player dan teamnya bekerja sama dengan gadis elf untuk mengalahkan pohon tersebut dan 
 where:di bawah gunung besar
-when:setelah melewati hutan saat mencari gadis elf
+when:setelah mencapai gadis elf di bawah gunung
 who:player, ksatria, gadis mecha, gadis elf, pohon hitam
 what:player bekerja sama dengan gadis elf untuk melawan musuh dan gadis elf mengikuti team player
 
-
-
-
-
-
 scene 3:
+plot:
+setelah terkalahkan pohon dan gadis kecil yang merupakan putri dari elf kingdom yaitu anak gadis elf, gadis elf mengikuti player team setelah player menjelaskan dia muncul  di dunia ini dengan itu player dengan team nya pergi ke kerajaan manusia terdekat yang di bilang gadis elf
+
+where:di bawah gunung besar
+when:setelah mencapai gadis elf di bawah gunung
+who:player, ksatria, gadis mecha, gadis elf, pohon hitam
+What:elf ikut team player dan mulai menuju kerajaan manusia terdekat
+
+
+
+scene 4:
 plot:
 setelah mencapai kerajaan manusia, gadis elf ingin melihat keluarga royal dari kerajaan tersebut tetapi anehnya gadis elf ditolak dan di bilang bahwa keluarga royal menjadi aneh selama tahun ini dengan mengambil tax yang lebih besar dan mengabaikan kata kata rakyat kerjaan dengan yang melawan perintahnya langsung di bunuh tanpa kata lain, lalu player bisa merasakan dalam hatinya bahwa dalam kerajaan ini adalah sumber masalah kenapa dia datang kesini dan membilang ke timnya, dengan itu player dengan team nya mencari tau cara untuk masuk ke kastil kerajaan dan menatap raja di dalam
 where:kerajaan manusia
@@ -149,7 +154,7 @@ when:setelah capai kerajaan manusia
 who:player, ksatria, gadis mecha, gadis elf, 
 what:gadis elf ingin pergi ke kerajaan terbesar manusia untuk meminta bantuan nya tetapi anehnya keluarga royal tidak mau melihat gadis elf atau siapapun kecuali beberapa orang yang membuat player team curiga dan rencana untuk mencari cara untuk memasuki kastil kerajaan
 
-scene 4:
+scene 5:
 plot:
 player dan teamnya ketemu dengan assasin yang dengar tujuan player setelah dia membantu kota atau player ketemu dengan assasin setelah melawan soldier di depan gerbang kastil, assasin mau kerja sama dengan player untuk membunuh raja yang merusak kerajaan ini dan mengetahui jalan rahasia dekat gerbang kastil tetapi ketemu dengan general terkuat kerajaan yaitu saudaranya sebelum bisa masuk ke dalam jalan rahasia
 where:di depan gerbang kastil
@@ -157,7 +162,7 @@ when: setelah ketemu dengan sosok yang tersembunyi dalam baju
 who:player, ksatria, gadis mecha, gadis elf, assassin, general
 what: player ketemu assasin setelah membantu masyarakat atau melawan soldier di depan gerbang dan membawa player ke jalan rahasia ke dalam kastil tetapi ketemu general terkuat kerajaan
 
-scene 5:
+scene 6:
 plot:
 setelah player team masuk dalam kastil, mereka sadar bahwa raja terkutuk oleh Void dan ingin membuat prajurit dari makhluk mati dan hidup dengan kekuatan void, player dengan teamnya melawan raja
 where:di dalam kasil
@@ -168,7 +173,7 @@ what:setelah melalui jalan rahasia, player melawan raja yang terkutuk oleh Void
 
 
 
-scene 6:
+scene 7:
 plot:
 setelah mengalahkan raja dan void terbasmi, raja terimakasih dengan player dengan team nya dengan memberikan banyak hadiah, setelah player tidak ada urusan dalam dunia ini, player keluar dari dunia dengan assasin dan gadis elf tidak ikut
 where:center region of the floating island
@@ -177,6 +182,34 @@ who:player, ksatria, gadis mecha, gadis elf, assassin, raja
 what:setelah melalui jalan rahasia, player melawan raja yang terkutuk oleh Void
 
 End of Chapter 1.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -251,6 +284,34 @@ End of Chapter 1.2
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Chapter 2:
 scene 1:
 plot:saat player istirahat di rumahnya, tiba-tiba dia merasakan sesuatu buruk ke arah timur island dengan firasatnya benar karena ada muncul asap hitam yang perlahan-lahan menuju seluruh bagian floating island, teamnya player mencoba mengikuti player tetapi tidak ada yang bisa masuk tanpa sakit ke dalam asap hitam selain player jadi player maju sendiri
@@ -274,6 +335,14 @@ where:Eastern region on the floating island
 when:setelah melalui barrier
 who:Player, Void creature
 what:Player melawan void creature dan setelah mengalahkan, membuat dunia lain terbuka dari segel void (new Worlds unlocked)
+
+scene 4:
+plot:
+Setelah mengalahkan Void creature, kegelapan di dalam dunia putih hitam ini berkurang dan setelah kembali Hope menjelaskan bahwa segel ke dunia lain telah terbuka
+where:Eastern region on the floating island
+When:setelah megalahkan Void creature
+who:Player, Void creature
+what:setelah mengalahkan Void creature, membuat dunia lain terbuka dari segel void (new Worlds unlocked)
 
 To be continued
  
