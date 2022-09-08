@@ -1,3 +1,9 @@
+Anggota Kelompok:
+C14200107 - Hendriyanto Kurniawan Haliem
+C14200113 - Jeremy Amadeus Raul Wibisono
+C14200125 - Sebastian Sutanto
+C14200076 - Marselino Vlyzer
+
 Tema    : Fighting 3D action adventure
 Genre    : Adventure, Action, rpg, Platformer puzzle
 Target user   : yang suka adventure dengan 3D action fighting 
@@ -43,7 +49,7 @@ Chapter 0 (prologue): fracture in time and space
 
 Scene 1:
 plot:
-Player tidur di lantai yang datar dan putih, bangun sambil terkejut dengan keadaannya, player melihat keliling hanya untuk melihat lingkungan yang berwarna putih dan hitam, saat berjalan ke salah satu ujung ada jurang yang gelap tanpa henti, player melihat di sekitar hanya ada jurang kecuali satu jalan yang bisa di lihat dengan ada menara cahaya di jalan situ, tanpa pilihan lain player tidak diam aja di tempat dan mengikuti jalan tersebut
+Player tidur di lantai yang datar dan putih, bangun sambil terkejut dengan keadaannya, player melihat keliling hanya untuk melihat lingkungan yang berwarna putih dan hitam, saat berjalan ke salah satu ujung ada jurang yang gelap tanpa henti, player melihat di sekitar hanya ada jurang kecuali satu jalan yang bisa dilihat dengan ada menara cahaya di jalan situ, tanpa pilihan lain player tidak diam saja di tempat dan mengikuti jalan tersebut
 
 where: di floating island in the outer western region
 when: setelah player bangun
@@ -107,10 +113,6 @@ End of Prologue.
 
 
 
-
-
-
-
 Chapter 1: New savior
 player ada beberapa pilihan untuk melakukan misinya, setelah menyelesaikan semua pilihan dunia, player lanjut ke stage 2
 dunia pilihan:
@@ -133,9 +135,6 @@ where:di bawah gunung besar
 when:setelah melewati hutan saat mencari gadis elf
 who:player, ksatria, gadis mecha, gadis elf, pohon hitam
 what:player bekerja sama dengan gadis elf untuk melawan musuh dan gadis elf mengikuti team player
-
-
-
 
 
 
@@ -178,34 +177,6 @@ who:player, ksatria, gadis mecha, gadis elf, assassin, raja
 what:setelah melalui jalan rahasia, player melawan raja yang terkutuk oleh Void
 
 End of Chapter 1.1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -277,6 +248,7 @@ who:player, ksatria, gadis mecha, space commando, Droid, space emperor
 what: setelah mengalahkan space emperor, mind control dimatikan dan player dengan teamnya diberi hadiah oleh president republic
 
 End of Chapter 1.2
+
 
 
 Chapter 2:
