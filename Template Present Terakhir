@@ -33,9 +33,11 @@ tingkat harus mencakup sinopsis, bahan pengantar yang diperlukan (dan bagaimana 
 Mendeskripsikan tentang Visual Sistem,Sistem Control, Audio,Help System. 
 a.	Visual Sistem : Interface Menu, Setting, Camera, dll
 b.	Sistem Control : Mouse And Keyboard
-c.	Audio : Audio device yang terhubung ke hardware.
-d.	Help Sistem
+c.	Audio : Audio device yang terhubung ke hardware (Headphones, Speakers, dll).
+d.	Help Sistem (Memberikan hint kepada player yang kesusahan dalam sebuah puzzle, Memberikan hint kepada player tentang kelemahan musuh yang dilawan).
 7.	AI (Artificial Intelegent) 
-Mendeskripsikan Penggunaan dan Pengaruh Artificial Intelegent dalam Enemies, Character atau Rule permainan.
+AI Enemies: Akan menyerang player jika distance antara enemy dan player kurang dari 5 meter dan enemy bisa lihat character yang digunakan oleh player.
+AI NPC: 
+AI Rules: 
 8.	Art
 Menjelaskan keseluruhan gaya dari art work yang digunakan didalam game, Memberikan contoh dari backgrounds, Sketsa dari semua karakter utama game. 
