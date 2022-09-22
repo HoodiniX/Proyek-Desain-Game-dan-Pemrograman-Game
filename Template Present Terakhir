@@ -6,15 +6,15 @@ a.	Forgotten Light
 b.	Kita main sebagai sebuah pahlawan yang akan mengembalikan cahaya kepada dunia-dunia yang sudah terkorupsi oleh kekuatan gelap.
 2.	Game Overview
 Menjelaskan tentang Platform Game, Genre Game, Target Audience/pengguna, GameFlow/Game Layout Chart, Character Game.
-a.	Platform Game : Platform output product (mobile, pc, dll)
-b.	Genre Game : Cakupan genre game (Action, RPG, Racing, Simulasi, dll)
-c.	Target Audience : Anak-anak, Remaja, Semua Umur, Pelajar, dll
+a.	Platform Game : PC
+b.	Genre Game : Adventure, Action, RPG, Platformer Puzzle, Fantasy, Sci-fi.
+c.	Target Audience : Umur 10+
 d.	GameFlow/Game Layout Chart : Menjelaskan bagaimana alur dari game bekerja. Bisa dibuat dalam bentuk flowchart yang disertai dengan penjelasan UI pada saat suatu proses terjadi.
 e.	Character Game : Menjelaskan Player, Enemies, NPC, Weapon. 
 3.	GamePlay & Mechanic
 Menjelaskan tentang Win or Lose, Gerakan, Key Game, Behaviour
 a.	Kondisi Menang / Kalah : Mendeskripsikan kapan terjadinya kondisi menang dan kalah.
-b.	Pergerakan : General Movement and Other Movement
+b.	Pergerakan : General Movement (Moving, Jumping, Running, Climbing)
 c.	Key Game : Live, Point, Score, Hint, Reward
 d.	Behaviour : FSM (Finite State Machine)
 e.	Pembelian : Cara Kerja pembelian/bisnis 
@@ -29,8 +29,8 @@ tingkat harus mencakup sinopsis, bahan pengantar yang diperlukan (dan bagaimana 
 6.	Interface  
 Mendeskripsikan tentang Visual Sistem,Sistem Control, Audio,Help System. 
 a.	Visual Sistem : Interface Menu, Setting, Camera, dll
-b.	Sistem Control : Interface Control Game
-c.	Audio : Interface Control Audio 
+b.	Sistem Control : Mouse And Keyboard
+c.	Audio : Audio device yang terhubung ke hardware.
 d.	Help Sistem
 7.	AI (Artificial Intelegent) 
 Mendeskripsikan Penggunaan dan Pengaruh Artificial Intelegent dalam Enemies, Character atau Rule permainan.
