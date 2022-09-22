@@ -18,7 +18,7 @@ a.	Kondisi Menang / Kalah : Pemain akan masuk ke dalam stage dan harus menyelesa
 dalam stage tersebut.
 b.	Pergerakan : General Movement (Moving, Jumping, Running, Climbing)
 c.	Key Game : Live, Point, Score, Hint, Reward
-d.	Behaviour : FSM (Finite State Machine)
+d.	Behaviour : Melee Focused, Range Focused, Defensive, Caster
 e.	Pembelian : Cara Kerja pembelian/bisnis 
 4.	Story Board
 Story Game merupakan serangkaian kemungkinan yang terjadi yang jika disatukan akan menjadi sebuah cerita (story) ketika dimainkan.
