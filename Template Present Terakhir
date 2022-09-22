@@ -23,7 +23,8 @@ e.	Pembelian : Cara Kerja pembelian/bisnis
 4.	Story Board
 Story Game merupakan serangkaian kemungkinan yang terjadi yang jika disatukan akan menjadi sebuah cerita (story) ketika dimainkan.
 a.	Story and Narative : Detail spesifik seperti script dialog dan cut scenes bisa dibuat dibentuk terpisah seperti Story Document
-b.	b. Game World : Deskripsi umum mengenai struktur dari dunia game, interface.
+b.	b. Game World : Game tersbut terjadi diantara banyak dunia yang berbeda-beda. Tempat mulai permainan kita tereletak di retakan antara dunia tersebut.
+Pemain akan memasuki dunia medeival, dunia futuris / anarkis, dan dunia yang dikontrol oleh antagonis utama game kita.
 c.	c. Character Profile : Cerita latar belakang karakter, kepribadian dan profil. 
 5.	Level
 Mendeskripsikan jumlah, jenis, dan objek yang berinteraksi dari setiap level. Setiap
