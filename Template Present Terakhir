@@ -13,7 +13,9 @@ d.	GameFlow/Game Layout Chart : Menjelaskan bagaimana alur dari game bekerja. Bi
 e.	Character Game : Menjelaskan Player, Enemies, NPC, Weapon. 
 3.	GamePlay & Mechanic
 Menjelaskan tentang Win or Lose, Gerakan, Key Game, Behaviour
-a.	Kondisi Menang / Kalah : Mendeskripsikan kapan terjadinya kondisi menang dan kalah.
+a.	Kondisi Menang / Kalah : Pemain akan masuk ke dalam stage dan harus menyelesaikan objective yang ada dalam game tersebut 
+(mengerjakan puzzle / mengalahkan musuh yang ada). Pemain menang ketika player berhasil melakukan semua objective dan melewati stage. Pemain kalah jika dikalahkan musuh
+dalam stage tersebut.
 b.	Pergerakan : General Movement (Moving, Jumping, Running, Climbing)
 c.	Key Game : Live, Point, Score, Hint, Reward
 d.	Behaviour : FSM (Finite State Machine)
